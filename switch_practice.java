@@ -24,9 +24,6 @@ public class switch_practice {
                break;
            default :
                System.out.println("Sunday");
-        }
-
-
-        
+        } 
     }
 }
